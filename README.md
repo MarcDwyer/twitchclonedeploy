@@ -1,5 +1,5 @@
-# YoutubeonNodeV2
-React-redux version
+# Twitch Clone v1
+MERN Stack 
 
 
 This app pulls streamer data from the YoutubeAPI. The app updates the streamer's status every 2 minutes and notifies the user if any livestreamers went online. The backend (Node) handles the fetch
@@ -10,7 +10,7 @@ Key Files to look at on Node
 ./routes
 ./init/getstreams.js
 
-Front End (React-Redux)
+Front End React
 ./public/reacttube/src
 
 

@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a4a9fde-36e2-4597-bca5-6d1b3e9a04ab" name="Default Changelist" comment="Some Style changes">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fetch/livestreams.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/livestreams.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/getstreams.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/getstreams.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/components/active_streams.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/components/nav.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/components/streamlist.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/components/videoplayer.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitchclone/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,11 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
               <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="24">
+                <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -108,6 +96,7 @@
         <option value="$PROJECT_DIR$/public/twitchclone/src/index.css" />
         <option value="$PROJECT_DIR$/public/twitchclone/src/components/active_streams.jsx" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -123,6 +112,7 @@
     <option name="width" value="2456" />
     <option name="height" value="1460" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -188,12 +178,12 @@
       <workItem from="1543357623080" duration="21000" />
       <workItem from="1543357677923" duration="9356000" />
       <workItem from="1543423436707" duration="9619000" />
-      <workItem from="1543439079812" duration="131000" />
+      <workItem from="1543439079812" duration="1485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57114000" />
+    <option name="totallyTimeSpent" value="58468000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -206,7 +196,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12411348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -311,6 +300,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
