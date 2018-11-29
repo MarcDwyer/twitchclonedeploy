@@ -26,7 +26,7 @@ const fs = require('fs');
     ];
 
     giveList();
-    setInterval(giveList, 85000);
+    setInterval(giveList, 220000);
     async function giveList() {
         console.log('running...');
 try {
