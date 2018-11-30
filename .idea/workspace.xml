@@ -28,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/init/getstreams.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
+            <state relative-caret-position="672">
               <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
             </state>
           </provider>
@@ -182,12 +182,13 @@
       <workItem from="1543439079812" duration="2820000" />
       <workItem from="1543450107010" duration="403000" />
       <workItem from="1543452725696" duration="654000" />
-      <workItem from="1543532923306" duration="25000" />
+      <workItem from="1543532923306" duration="54000" />
+      <workItem from="1543604100335" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60885000" />
+    <option name="totallyTimeSpent" value="60958000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -257,6 +258,13 @@
     <entry file="file://$PROJECT_DIR$/public/twitchclone/src/components/active_streams.jsx" />
     <entry file="file://$PROJECT_DIR$/public/twitchclone/src/components/videoplayer.jsx" />
     <entry file="file://$PROJECT_DIR$/public/twitchclone/src/index.css" />
+    <entry file="file://$PROJECT_DIR$/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -274,16 +282,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/init/getstreams.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="672">
           <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
