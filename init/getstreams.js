@@ -22,7 +22,8 @@ const streamList = [
     {name: 'Joe', channelId: 'UCzQUP1qoWDoEbmsQxvdjxgQ'},
     {name: 'Me', channelId: 'UCBawnZIFCiN_WNvsseGyjYA'},
     {name: 'Nasa', channelId: 'UCLA_DiR1FfKNvjuUpBHmylQ'},
-    {name: 'CBS', channelId: 'UC8p1vwvWtl6T73JiExfWs1g'}
+    {name: 'CBS', channelId: 'UC8p1vwvWtl6T73JiExfWs1g'},
+    {name: 'Pepper', channelId: 'UCdSr4xliU8yDyS1aGnCUMTA'}
 ];
 
     giveList();
