@@ -3,7 +3,7 @@ const fs = require('fs');
 
 
 
-    const API = 'AIzaSyBghJmzrFiYYr4ClicgFYHvN4ubVsnJxuE';
+    const API = process.env.KEY;
 
 const streamList = [
     {name:'Ice', channelId: 'UCv9Edl_WbtbPeURPtFDo-uA'},
