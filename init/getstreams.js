@@ -27,7 +27,7 @@ const streamList = [
 ];
 
     giveList();
-    setInterval(giveList, 260000);
+    setInterval(giveList, 350000)
     async function giveList() {
         console.log('running...');
 try {
