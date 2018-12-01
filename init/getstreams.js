@@ -42,7 +42,7 @@ try {
 
   const liveData = await Promise.all(liveStreams.map(async (item) => {
       const vidid = item.items[0].id.videoId;
-      const fetchData = await fetch(`https://www.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics%2CliveStreamingDetails&id=${vidid}&key=${API}`);
+      const fetchData = await fetch(`https://www.googleapis.com/youtube/v3/videos?part=statistics%2C+snippet%2C+liveStreamingDetails&id=${vidid}&key=${API}`);
       const dataFetch = await fetchData.json();
 
 
