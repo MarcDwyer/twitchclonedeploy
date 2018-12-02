@@ -6,8 +6,6 @@ const fs = require('fs');
 const streamList = [
     {name:'Ice', channelId: 'UCv9Edl_WbtbPeURPtFDo-uA'},
     {name:'Mixhound', channelId: 'UC_jxnWLGJ2eQK4en3UblKEw'},
-    {name:'Tsa', channelId: 'UCB0H_1M78_jwTyfaJuP241g'},
-    {name:'Destiny', channelId: 'UC554eY5jNUfDq3yDOJYirOQ'},
     {name:'Hyphonix', channelId: 'UC4abN4ZiybnsAXTkTBX7now'},
     {name:'Gary', channelId: 'UCvxSwu13u1wWyROPlCH-MZg'},
     {name:'Burger', channelId: 'UC3MAdjjG3LMCG8CV-d7nEQA'},
@@ -15,10 +13,8 @@ const streamList = [
     {name:'Lolesports', channelId: 'UCvqRdlKsE5Q8mf8YXbdIJLw'},
     {name:'Chilledcow', channelId: 'UCSJ4gkVC6NrvII8umztf0Ow'},
     {name:'Cxnews', channelId: 'UCStEQ9BjMLjHTHLNA6cY9vg'},
-    {name: 'Andy', channelId: 'UCovb8rgpCANx6nwDwnW0Uqg'},
     {name: 'Code', channelId: 'UCvjgXvBlbQiydffZU7m1_aw'},
     {name: 'Joe', channelId: 'UCzQUP1qoWDoEbmsQxvdjxgQ'},
-    {name: 'Me', channelId: 'UCBawnZIFCiN_WNvsseGyjYA'},
     {name: 'Nasa', channelId: 'UCLA_DiR1FfKNvjuUpBHmylQ'},
     {name: 'CBS', channelId: 'UC8p1vwvWtl6T73JiExfWs1g'},
     {name: 'Pepper', channelId: 'UCdSr4xliU8yDyS1aGnCUMTA'}
