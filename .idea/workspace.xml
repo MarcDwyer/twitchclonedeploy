@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a4a9fde-36e2-4597-bca5-6d1b3e9a04ab" name="Default Changelist" comment="Some Style changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/init/getstreams.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/getstreams.js" afterDir="false" />
-    </list>
+    <list default="true" id="7a4a9fde-36e2-4597-bca5-6d1b3e9a04ab" name="Default Changelist" comment="Some Style changes" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -192,12 +189,12 @@
       <workItem from="1543701215851" duration="2029000" />
       <workItem from="1543707665149" duration="2444000" />
       <workItem from="1543716850155" duration="619000" />
-      <workItem from="1543720501935" duration="28000" />
+      <workItem from="1543720501935" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69505000" />
+    <option name="totallyTimeSpent" value="69686000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -210,7 +207,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12411348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
