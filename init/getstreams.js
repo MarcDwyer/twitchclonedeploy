@@ -1,8 +1,6 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-
-
     const API = process.env.KEY;
 
 const streamList = [
@@ -27,7 +25,7 @@ const streamList = [
 ];
 
     giveList();
-    setInterval(giveList, 350000)
+    setInterval(giveList, 500000)
     async function giveList() {
         console.log('running...');
 try {
