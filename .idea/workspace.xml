@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a4a9fde-36e2-4597-bca5-6d1b3e9a04ab" name="Default Changelist" comment="Some Style changes" />
+    <list default="true" id="7a4a9fde-36e2-4597-bca5-6d1b3e9a04ab" name="Default Changelist" comment="Some Style changes">
+      <change beforePath="$PROJECT_DIR$/init/getstreams.js" beforeDir="false" afterPath="$PROJECT_DIR$/init/getstreams.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/init/getstreams.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="456">
+              <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -85,8 +87,8 @@
         <option value="$PROJECT_DIR$/.env.default" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/init/getstreams.js" />
         <option value="$PROJECT_DIR$/server2.js" />
+        <option value="$PROJECT_DIR$/init/getstreams.js" />
       </list>
     </option>
   </component>
@@ -192,11 +194,12 @@
       <workItem from="1543720501935" duration="209000" />
       <workItem from="1543777414791" duration="894000" />
       <workItem from="1543818214891" duration="342000" />
+      <workItem from="1543910183464" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70922000" />
+    <option name="totallyTimeSpent" value="71358000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -209,6 +212,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12411348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -336,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/init/getstreams.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="456">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
         </state>
       </provider>
     </entry>
